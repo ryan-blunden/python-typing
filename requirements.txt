@@ -1,0 +1,8 @@
+colorama  # Coloured text in the shell
+ipython  # The only way to shell
+
+# Works if not Python < 3.5
+#mypy-lang
+
+# Need to install from source if on Python 3.5
+git+git://github.com/JukkaL/mypy.git
