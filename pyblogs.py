@@ -1,4 +1,5 @@
-# FIXME: Use the typing module to assign type information
+# TASK: Use the typing module to assign type information
+
 
 class Blog:
     """A blog model"""
@@ -6,7 +7,7 @@ class Blog:
     url = None
     title = None
 
-    def __init__(self, title, url) -> None:
+    def __init__(self, title, url):
         self.title = title
         self.url = url
 

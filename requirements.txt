@@ -1,5 +1,6 @@
 colorama  # Coloured text in the shell
 ipython  # The only way to shell
+flake8  # PEP8 and PyFlake's greatest hits
 
 # Works if not Python < 3.5
 #mypy-lang
